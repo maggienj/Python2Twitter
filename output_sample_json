@@ -1,0 +1,1093 @@
+{"text": "\u5fc3\u306f\u3044\u3064\u3082\u4e00\u7dd2\u3060\u3088\u3000#\u6a59\u91ce", "filter_level": "low", "favorited": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "created_at": "Thu Sep 15 16:13:06 +0000 2016", "lang": "ja", "geo": null, "id_str": "776453801154797568", "user": {"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "geo_enabled": false, "profile_sidebar_border_color": "C0DEED", "is_translator": false, "url": null, "friends_count": 3, "favourites_count": 0, "utc_offset": null, "created_at": "Sun Oct 02 06:58:26 +0000 2011", "lang": "ja", "default_profile": true, "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png", "id_str": "383631379", "profile_background_tile": false, "profile_link_color": "0084B4", "profile_use_background_image": true, "notifications": null, "default_profile_image": true, "profile_sidebar_fill_color": "DDEEF6", "protected": false, "followers_count": 12, "description": "@echoblue_iu \u3068 @kh_tono \u306e\u30a2\u30ec", "listed_count": 3, "verified": false, "id": 383631379, "profile_text_color": "333333", "following": null, "statuses_count": 31611, "location": null, "follow_request_sent": null, "profile_background_color": "C0DEED", "screen_name": "yui_tono_bot", "name": "\u7531\u4f9d\u67cabot", "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png", "contributors_enabled": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "time_zone": null}, "place": null, "contributors": null, "entities": {"user_mentions": [], "hashtags": [{"text": "\u6a59\u91ce", "indices": [10, 13]}], "symbols": [], "urls": []}, "favorite_count": 0, "retweeted": false, "id": 776453801154797568, "in_reply_to_user_id": null, "timestamp_ms": "1473955986666", "retweet_count": 0, "truncated": false, "in_reply_to_user_id_str": null, "is_quote_status": false, "coordinates": null, "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>", "in_reply_to_screen_name": null}
+{
+    "text": "\u5fc3\u306f\u3044\u3064\u3082\u4e00\u7dd2\u3060\u3088\u3000#\u6a59\u91ce",
+    "filter_level": "low",
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Sep 15 16:13:06 +0000 2016",
+    "lang": "ja",
+    "geo": null,
+    "id_str": "776453801154797568",
+    "user": {
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "geo_enabled": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "is_translator": false,
+        "url": null,
+        "friends_count": 3,
+        "favourites_count": 0,
+        "utc_offset": null,
+        "created_at": "Sun Oct 02 06:58:26 +0000 2011",
+        "lang": "ja",
+        "default_profile": true,
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "id_str": "383631379",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_use_background_image": true,
+        "notifications": null,
+        "default_profile_image": true,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "protected": false,
+        "followers_count": 12,
+        "description": "@echoblue_iu \u3068 @kh_tono \u306e\u30a2\u30ec",
+        "listed_count": 3,
+        "verified": false,
+        "id": 383631379,
+        "profile_text_color": "333333",
+        "following": null,
+        "statuses_count": 31611,
+        "location": null,
+        "follow_request_sent": null,
+        "profile_background_color": "C0DEED",
+        "screen_name": "yui_tono_bot",
+        "name": "\u7531\u4f9d\u67cabot",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "contributors_enabled": false,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "time_zone": null
+    },
+    "place": null,
+    "contributors": null,
+    "entities": {
+        "user_mentions": [],
+        "hashtags": [
+            {
+                "text": "\u6a59\u91ce",
+                "indices": [
+                    10,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "urls": []
+    },
+    "favorite_count": 0,
+    "retweeted": false,
+    "id": 776453801154797568,
+    "in_reply_to_user_id": null,
+    "timestamp_ms": "1473955986666",
+    "retweet_count": 0,
+    "truncated": false,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_screen_name": null
+}
+{"text": "RT @GGthinking: @Richard19185233 @crash1419 @RacySicilian @JoeBobMr not all dark hours r on th battlefild, Jesus said b kind 2 othrs https:\u2026", "filter_level": "low", "retweet_count": 0, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "created_at": "Thu Sep 15 16:13:06 +0000 2016", "lang": "en", "geo": null, "id_str": "776453801121189888", "possibly_sensitive": false, "user": {"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", "geo_enabled": false, "profile_sidebar_border_color": "000000", "is_translator": false, "url": null, "friends_count": 18827, "favourites_count": 74062, "utc_offset": -14400, "created_at": "Thu May 07 02:55:41 +0000 2009", "lang": "en", "default_profile": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/730089938826477568/tcM-rqdn_normal.jpg", "id_str": "38351186", "profile_background_tile": false, "profile_link_color": "DD2E44", "profile_use_background_image": false, "notifications": null, "default_profile_image": false, "profile_sidebar_fill_color": "000000", "protected": false, "followers_count": 19603, "description": "Constitutionalist Conservative Christian #1A #2A #2ADefenders #NRA #PJNET #TCOT #ProLife #IStandWithIsrael #BanIslam #NoRefugees #Infidel #Kafir #BlueHand #MAGA", "listed_count": 179, "verified": false, "id": 38351186, "profile_text_color": "000000", "following": null, "statuses_count": 84584, "location": null, "follow_request_sent": null, "profile_background_color": "000000", "screen_name": "RacySicilian", "name": "Racy\u10e6", "profile_image_url": "http://pbs.twimg.com/profile_images/730089938826477568/tcM-rqdn_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/38351186/1465057720", "contributors_enabled": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", "time_zone": "Eastern Time (US & Canada)"}, "place": null, "contributors": null, "entities": {"user_mentions": [{"id": 4223251997, "indices": [3, 14], "id_str": "4223251997", "screen_name": "GGthinking", "name": "GGshotgun"}, {"id": 4798530722, "indices": [16, 32], "id_str": "4798530722", "screen_name": "Richard19185233", "name": "Richard jordan"}, {"id": 1724250530, "indices": [33, 43], "id_str": "1724250530", "screen_name": "crash1419", "name": "christopher dineen"}, {"id": 38351186, "indices": [44, 57], "id_str": "38351186", "screen_name": "RacySicilian", "name": "Racy\u10e6"}, {"id": 296305721, "indices": [58, 67], "id_str": "296305721", "screen_name": "JoeBobMr", "name": "Joe Bob"}], "hashtags": [], "symbols": [], "media": [{"source_status_id_str": "776414592473772032", "type": "photo", "url": "https://t.co/cXbGf3djHx", "id": 776414541290889216, "media_url": "http://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg", "sizes": {"large": {"resize": "fit", "h": 960, "w": 960}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 960, "w": 960}, "small": {"resize": "fit", "h": 680, "w": 680}}, "media_url_https": "https://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg", "indices": [139, 140], "source_user_id": 4223251997, "id_str": "776414541290889216", "source_user_id_str": "4223251997", "source_status_id": 776414592473772032, "expanded_url": "https://twitter.com/GGthinking/status/776414592473772032/photo/1", "display_url": "pic.twitter.com/cXbGf3djHx"}], "urls": []}, "favorite_count": 0, "retweeted": false, "id": 776453801121189888, "in_reply_to_user_id": null, "timestamp_ms": "1473955986658", "favorited": false, "truncated": false, "in_reply_to_user_id_str": null, "is_quote_status": false, "coordinates": null, "in_reply_to_screen_name": null, "extended_entities": {"media": [{"source_status_id_str": "776414592473772032", "type": "photo", "url": "https://t.co/cXbGf3djHx", "id": 776414541290889216, "media_url": "http://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg", "sizes": {"large": {"resize": "fit", "h": 960, "w": 960}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 960, "w": 960}, "small": {"resize": "fit", "h": 680, "w": 680}}, "media_url_https": "https://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg", "indices": [139, 140], "source_user_id": 4223251997, "id_str": "776414541290889216", "source_user_id_str": "4223251997", "source_status_id": 776414592473772032, "expanded_url": "https://twitter.com/GGthinking/status/776414592473772032/photo/1", "display_url": "pic.twitter.com/cXbGf3djHx"}]}, "retweeted_status": {"text": "@Richard19185233 @crash1419 @RacySicilian @JoeBobMr not all dark hours r on th battlefild, Jesus said b kind 2 othrs https://t.co/cXbGf3djHx", "filter_level": "low", "retweet_count": 1, "in_reply_to_status_id": 776227099694600192, "in_reply_to_status_id_str": "776227099694600192", "created_at": "Thu Sep 15 13:37:18 +0000 2016", "user": {"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "geo_enabled": false, "profile_sidebar_border_color": "C0DEED", "is_translator": false, "url": null, "friends_count": 5002, "favourites_count": 18115, "utc_offset": null, "created_at": "Thu Nov 19 03:25:12 +0000 2015", "lang": "en", "default_profile": true, "profile_image_url_https": "https://pbs.twimg.com/profile_images/743108290905792512/8M_bFFCW_normal.jpg", "id_str": "4223251997", "profile_background_tile": false, "profile_link_color": "0084B4", "profile_use_background_image": true, "notifications": null, "default_profile_image": false, "profile_sidebar_fill_color": "DDEEF6", "protected": false, "followers_count": 3548, "description": "Satan tortures 4 eternity, God loves n forgives that none shud perish & all receive everlastin life, John 3:16, follow God via Holy Bible,Twitter stops me@5000", "listed_count": 83, "verified": false, "id": 4223251997, "profile_text_color": "333333", "following": null, "statuses_count": 37619, "location": "God's footstool lookin up", "follow_request_sent": null, "profile_background_color": "C0DEED", "screen_name": "GGthinking", "name": "GGshotgun", "profile_image_url": "http://pbs.twimg.com/profile_images/743108290905792512/8M_bFFCW_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/4223251997/1458852291", "contributors_enabled": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "time_zone": null}, "lang": "en", "geo": null, "id_str": "776414592473772032", "possibly_sensitive": false, "entities": {"user_mentions": [{"id": 4798530722, "indices": [0, 16], "id_str": "4798530722", "screen_name": "Richard19185233", "name": "Richard jordan"}, {"id": 1724250530, "indices": [17, 27], "id_str": "1724250530", "screen_name": "crash1419", "name": "christopher dineen"}, {"id": 38351186, "indices": [28, 41], "id_str": "38351186", "screen_name": "RacySicilian", "name": "Racy\u10e6"}, {"id": 296305721, "indices": [42, 51], "id_str": "296305721", "screen_name": "JoeBobMr", "name": "Joe Bob"}], "hashtags": [], "symbols": [], "media": [{"indices": [117, 140], "expanded_url": "https://twitter.com/GGthinking/status/776414592473772032/photo/1", "id_str": "776414541290889216", "type": "photo", "url": "https://t.co/cXbGf3djHx", "id": 776414541290889216, "media_url": "http://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg", "sizes": {"large": {"resize": "fit", "h": 960, "w": 960}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 960, "w": 960}, "small": {"resize": "fit", "h": 680, "w": 680}}, "media_url_https": "https://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg", "display_url": "pic.twitter.com/cXbGf3djHx"}], "urls": []}, "place": null, "contributors": null, "favorite_count": 1, "retweeted": false, "id": 776414592473772032, "in_reply_to_user_id": 4798530722, "favorited": false, "truncated": false, "in_reply_to_user_id_str": "4798530722", "is_quote_status": false, "coordinates": null, "in_reply_to_screen_name": "Richard19185233", "extended_entities": {"media": [{"indices": [117, 140], "expanded_url": "https://twitter.com/GGthinking/status/776414592473772032/photo/1", "id_str": "776414541290889216", "type": "photo", "url": "https://t.co/cXbGf3djHx", "id": 776414541290889216, "media_url": "http://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg", "sizes": {"large": {"resize": "fit", "h": 960, "w": 960}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 960, "w": 960}, "small": {"resize": "fit", "h": 680, "w": 680}}, "media_url_https": "https://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg", "display_url": "pic.twitter.com/cXbGf3djHx"}]}, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"}}
+{
+    "text": "RT @GGthinking: @Richard19185233 @crash1419 @RacySicilian @JoeBobMr not all dark hours r on th battlefild, Jesus said b kind 2 othrs https:\u2026",
+    "filter_level": "low",
+    "retweet_count": 0,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Sep 15 16:13:06 +0000 2016",
+    "lang": "en",
+    "geo": null,
+    "id_str": "776453801121189888",
+    "possibly_sensitive": false,
+    "user": {
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "geo_enabled": false,
+        "profile_sidebar_border_color": "000000",
+        "is_translator": false,
+        "url": null,
+        "friends_count": 18827,
+        "favourites_count": 74062,
+        "utc_offset": -14400,
+        "created_at": "Thu May 07 02:55:41 +0000 2009",
+        "lang": "en",
+        "default_profile": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/730089938826477568/tcM-rqdn_normal.jpg",
+        "id_str": "38351186",
+        "profile_background_tile": false,
+        "profile_link_color": "DD2E44",
+        "profile_use_background_image": false,
+        "notifications": null,
+        "default_profile_image": false,
+        "profile_sidebar_fill_color": "000000",
+        "protected": false,
+        "followers_count": 19603,
+        "description": "Constitutionalist Conservative Christian #1A #2A #2ADefenders #NRA #PJNET #TCOT #ProLife #IStandWithIsrael #BanIslam #NoRefugees #Infidel #Kafir #BlueHand #MAGA",
+        "listed_count": 179,
+        "verified": false,
+        "id": 38351186,
+        "profile_text_color": "000000",
+        "following": null,
+        "statuses_count": 84584,
+        "location": null,
+        "follow_request_sent": null,
+        "profile_background_color": "000000",
+        "screen_name": "RacySicilian",
+        "name": "Racy\u10e6",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730089938826477568/tcM-rqdn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38351186/1465057720",
+        "contributors_enabled": false,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "time_zone": "Eastern Time (US & Canada)"
+    },
+    "place": null,
+    "contributors": null,
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 4223251997,
+                "indices": [
+                    3,
+                    14
+                ],
+                "id_str": "4223251997",
+                "screen_name": "GGthinking",
+                "name": "GGshotgun"
+            },
+            {
+                "id": 4798530722,
+                "indices": [
+                    16,
+                    32
+                ],
+                "id_str": "4798530722",
+                "screen_name": "Richard19185233",
+                "name": "Richard jordan"
+            },
+            {
+                "id": 1724250530,
+                "indices": [
+                    33,
+                    43
+                ],
+                "id_str": "1724250530",
+                "screen_name": "crash1419",
+                "name": "christopher dineen"
+            },
+            {
+                "id": 38351186,
+                "indices": [
+                    44,
+                    57
+                ],
+                "id_str": "38351186",
+                "screen_name": "RacySicilian",
+                "name": "Racy\u10e6"
+            },
+            {
+                "id": 296305721,
+                "indices": [
+                    58,
+                    67
+                ],
+                "id_str": "296305721",
+                "screen_name": "JoeBobMr",
+                "name": "Joe Bob"
+            }
+        ],
+        "hashtags": [],
+        "symbols": [],
+        "media": [
+            {
+                "source_status_id_str": "776414592473772032",
+                "type": "photo",
+                "url": "https://t.co/cXbGf3djHx",
+                "id": 776414541290889216,
+                "media_url": "http://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg",
+                "sizes": {
+                    "large": {
+                        "resize": "fit",
+                        "h": 960,
+                        "w": 960
+                    },
+                    "thumb": {
+                        "resize": "crop",
+                        "h": 150,
+                        "w": 150
+                    },
+                    "medium": {
+                        "resize": "fit",
+                        "h": 960,
+                        "w": 960
+                    },
+                    "small": {
+                        "resize": "fit",
+                        "h": 680,
+                        "w": 680
+                    }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg",
+                "indices": [
+                    139,
+                    140
+                ],
+                "source_user_id": 4223251997,
+                "id_str": "776414541290889216",
+                "source_user_id_str": "4223251997",
+                "source_status_id": 776414592473772032,
+                "expanded_url": "https://twitter.com/GGthinking/status/776414592473772032/photo/1",
+                "display_url": "pic.twitter.com/cXbGf3djHx"
+            }
+        ],
+        "urls": []
+    },
+    "favorite_count": 0,
+    "retweeted": false,
+    "id": 776453801121189888,
+    "in_reply_to_user_id": null,
+    "timestamp_ms": "1473955986658",
+    "favorited": false,
+    "truncated": false,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+        "media": [
+            {
+                "source_status_id_str": "776414592473772032",
+                "type": "photo",
+                "url": "https://t.co/cXbGf3djHx",
+                "id": 776414541290889216,
+                "media_url": "http://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg",
+                "sizes": {
+                    "large": {
+                        "resize": "fit",
+                        "h": 960,
+                        "w": 960
+                    },
+                    "thumb": {
+                        "resize": "crop",
+                        "h": 150,
+                        "w": 150
+                    },
+                    "medium": {
+                        "resize": "fit",
+                        "h": 960,
+                        "w": 960
+                    },
+                    "small": {
+                        "resize": "fit",
+                        "h": 680,
+                        "w": 680
+                    }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg",
+                "indices": [
+                    139,
+                    140
+                ],
+                "source_user_id": 4223251997,
+                "id_str": "776414541290889216",
+                "source_user_id_str": "4223251997",
+                "source_status_id": 776414592473772032,
+                "expanded_url": "https://twitter.com/GGthinking/status/776414592473772032/photo/1",
+                "display_url": "pic.twitter.com/cXbGf3djHx"
+            }
+        ]
+    },
+    "retweeted_status": {
+        "text": "@Richard19185233 @crash1419 @RacySicilian @JoeBobMr not all dark hours r on th battlefild, Jesus said b kind 2 othrs https://t.co/cXbGf3djHx",
+        "filter_level": "low",
+        "retweet_count": 1,
+        "in_reply_to_status_id": 776227099694600192,
+        "in_reply_to_status_id_str": "776227099694600192",
+        "created_at": "Thu Sep 15 13:37:18 +0000 2016",
+        "user": {
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "geo_enabled": false,
+            "profile_sidebar_border_color": "C0DEED",
+            "is_translator": false,
+            "url": null,
+            "friends_count": 5002,
+            "favourites_count": 18115,
+            "utc_offset": null,
+            "created_at": "Thu Nov 19 03:25:12 +0000 2015",
+            "lang": "en",
+            "default_profile": true,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/743108290905792512/8M_bFFCW_normal.jpg",
+            "id_str": "4223251997",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_use_background_image": true,
+            "notifications": null,
+            "default_profile_image": false,
+            "profile_sidebar_fill_color": "DDEEF6",
+            "protected": false,
+            "followers_count": 3548,
+            "description": "Satan tortures 4 eternity, God loves n forgives that none shud perish & all receive everlastin life, John 3:16, follow God via Holy Bible,Twitter stops me@5000",
+            "listed_count": 83,
+            "verified": false,
+            "id": 4223251997,
+            "profile_text_color": "333333",
+            "following": null,
+            "statuses_count": 37619,
+            "location": "God's footstool lookin up",
+            "follow_request_sent": null,
+            "profile_background_color": "C0DEED",
+            "screen_name": "GGthinking",
+            "name": "GGshotgun",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/743108290905792512/8M_bFFCW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4223251997/1458852291",
+            "contributors_enabled": false,
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "time_zone": null
+        },
+        "lang": "en",
+        "geo": null,
+        "id_str": "776414592473772032",
+        "possibly_sensitive": false,
+        "entities": {
+            "user_mentions": [
+                {
+                    "id": 4798530722,
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "id_str": "4798530722",
+                    "screen_name": "Richard19185233",
+                    "name": "Richard jordan"
+                },
+                {
+                    "id": 1724250530,
+                    "indices": [
+                        17,
+                        27
+                    ],
+                    "id_str": "1724250530",
+                    "screen_name": "crash1419",
+                    "name": "christopher dineen"
+                },
+                {
+                    "id": 38351186,
+                    "indices": [
+                        28,
+                        41
+                    ],
+                    "id_str": "38351186",
+                    "screen_name": "RacySicilian",
+                    "name": "Racy\u10e6"
+                },
+                {
+                    "id": 296305721,
+                    "indices": [
+                        42,
+                        51
+                    ],
+                    "id_str": "296305721",
+                    "screen_name": "JoeBobMr",
+                    "name": "Joe Bob"
+                }
+            ],
+            "hashtags": [],
+            "symbols": [],
+            "media": [
+                {
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "expanded_url": "https://twitter.com/GGthinking/status/776414592473772032/photo/1",
+                    "id_str": "776414541290889216",
+                    "type": "photo",
+                    "url": "https://t.co/cXbGf3djHx",
+                    "id": 776414541290889216,
+                    "media_url": "http://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg",
+                    "sizes": {
+                        "large": {
+                            "resize": "fit",
+                            "h": 960,
+                            "w": 960
+                        },
+                        "thumb": {
+                            "resize": "crop",
+                            "h": 150,
+                            "w": 150
+                        },
+                        "medium": {
+                            "resize": "fit",
+                            "h": 960,
+                            "w": 960
+                        },
+                        "small": {
+                            "resize": "fit",
+                            "h": 680,
+                            "w": 680
+                        }
+                    },
+                    "media_url_https": "https://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg",
+                    "display_url": "pic.twitter.com/cXbGf3djHx"
+                }
+            ],
+            "urls": []
+        },
+        "place": null,
+        "contributors": null,
+        "favorite_count": 1,
+        "retweeted": false,
+        "id": 776414592473772032,
+        "in_reply_to_user_id": 4798530722,
+        "favorited": false,
+        "truncated": false,
+        "in_reply_to_user_id_str": "4798530722",
+        "is_quote_status": false,
+        "coordinates": null,
+        "in_reply_to_screen_name": "Richard19185233",
+        "extended_entities": {
+            "media": [
+                {
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "expanded_url": "https://twitter.com/GGthinking/status/776414592473772032/photo/1",
+                    "id_str": "776414541290889216",
+                    "type": "photo",
+                    "url": "https://t.co/cXbGf3djHx",
+                    "id": 776414541290889216,
+                    "media_url": "http://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg",
+                    "sizes": {
+                        "large": {
+                            "resize": "fit",
+                            "h": 960,
+                            "w": 960
+                        },
+                        "thumb": {
+                            "resize": "crop",
+                            "h": 150,
+                            "w": 150
+                        },
+                        "medium": {
+                            "resize": "fit",
+                            "h": 960,
+                            "w": 960
+                        },
+                        "small": {
+                            "resize": "fit",
+                            "h": 680,
+                            "w": 680
+                        }
+                    },
+                    "media_url_https": "https://pbs.twimg.com/media/CsZg6WQXYAAd6NC.jpg",
+                    "display_url": "pic.twitter.com/cXbGf3djHx"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+    }
+}
+{"text": "Dont construe spirit befriender purchase ledger!: aIR", "filter_level": "low", "favorited": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "created_at": "Thu Sep 15 16:13:06 +0000 2016", "lang": "en", "geo": null, "id_str": "776453801129553922", "user": {"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "geo_enabled": false, "profile_sidebar_border_color": "C0DEED", "is_translator": false, "url": null, "friends_count": 0, "favourites_count": 0, "utc_offset": 10800, "created_at": "Mon Feb 25 07:53:25 +0000 2013", "lang": "es", "default_profile": true, "profile_image_url_https": "https://pbs.twimg.com/profile_images/3335186431/dd6a1f8da4cf3d8645c7247b6629662e_normal.jpeg", "id_str": "1217603150", "profile_background_tile": false, "profile_link_color": "0084B4", "profile_use_background_image": true, "notifications": null, "default_profile_image": false, "profile_sidebar_fill_color": "DDEEF6", "protected": false, "followers_count": 101, "description": null, "listed_count": 21, "verified": false, "id": 1217603150, "profile_text_color": "333333", "following": null, "statuses_count": 143631, "location": null, "follow_request_sent": null, "profile_background_color": "C0DEED", "screen_name": "CynthiaEmily2", "name": "CynthiaEmily", "profile_image_url": "http://pbs.twimg.com/profile_images/3335186431/dd6a1f8da4cf3d8645c7247b6629662e_normal.jpeg", "contributors_enabled": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "time_zone": "Bucharest"}, "place": null, "contributors": null, "entities": {"user_mentions": [], "hashtags": [], "symbols": [], "urls": []}, "favorite_count": 0, "retweeted": false, "id": 776453801129553922, "in_reply_to_user_id": null, "timestamp_ms": "1473955986660", "retweet_count": 0, "truncated": false, "in_reply_to_user_id_str": null, "is_quote_status": false, "coordinates": null, "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", "in_reply_to_screen_name": null}
+{
+    "text": "Dont construe spirit befriender purchase ledger!: aIR",
+    "filter_level": "low",
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Sep 15 16:13:06 +0000 2016",
+    "lang": "en",
+    "geo": null,
+    "id_str": "776453801129553922",
+    "user": {
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "geo_enabled": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "is_translator": false,
+        "url": null,
+        "friends_count": 0,
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "created_at": "Mon Feb 25 07:53:25 +0000 2013",
+        "lang": "es",
+        "default_profile": true,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3335186431/dd6a1f8da4cf3d8645c7247b6629662e_normal.jpeg",
+        "id_str": "1217603150",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_use_background_image": true,
+        "notifications": null,
+        "default_profile_image": false,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "protected": false,
+        "followers_count": 101,
+        "description": null,
+        "listed_count": 21,
+        "verified": false,
+        "id": 1217603150,
+        "profile_text_color": "333333",
+        "following": null,
+        "statuses_count": 143631,
+        "location": null,
+        "follow_request_sent": null,
+        "profile_background_color": "C0DEED",
+        "screen_name": "CynthiaEmily2",
+        "name": "CynthiaEmily",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3335186431/dd6a1f8da4cf3d8645c7247b6629662e_normal.jpeg",
+        "contributors_enabled": false,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "time_zone": "Bucharest"
+    },
+    "place": null,
+    "contributors": null,
+    "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "symbols": [],
+        "urls": []
+    },
+    "favorite_count": 0,
+    "retweeted": false,
+    "id": 776453801129553922,
+    "in_reply_to_user_id": null,
+    "timestamp_ms": "1473955986660",
+    "retweet_count": 0,
+    "truncated": false,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+    "in_reply_to_screen_name": null
+}
+{"text": "@BAltwalbeh \u0644\u0627", "filter_level": "low", "favorited": false, "in_reply_to_status_id": 776453606979538944, "in_reply_to_status_id_str": "776453606979538944", "created_at": "Thu Sep 15 16:13:06 +0000 2016", "lang": "ar", "geo": null, "id_str": "776453801117179908", "user": {"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", "geo_enabled": true, "profile_sidebar_border_color": "C6E2EE", "is_translator": false, "url": null, "friends_count": 663, "favourites_count": 9366, "utc_offset": 10800, "created_at": "Sun Aug 19 04:53:41 +0000 2012", "lang": "en", "default_profile": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/770632563559981056/PbYQIhpE_normal.jpg", "id_str": "766940395", "profile_background_tile": false, "profile_link_color": "1F98C7", "profile_use_background_image": true, "notifications": null, "default_profile_image": false, "profile_sidebar_fill_color": "DAECF4", "protected": false, "followers_count": 1523, "description": "\u0646\u0627\u064a\u0645 \u0641\u064a \u0627\u0644\u0639\u0633\u0644\u060c \u0632\u064a\u0643\u0645. | \u0637\u0627\u0644\u0628 \u0637\u0628", "listed_count": 21, "verified": false, "id": 766940395, "profile_text_color": "663B12", "following": null, "statuses_count": 37794, "location": "jordan", "follow_request_sent": null, "profile_background_color": "C6E2EE", "screen_name": "AbuAIii", "name": "\u0623\u0628\u0648 \u0639\u0644\u064a", "profile_image_url": "http://pbs.twimg.com/profile_images/770632563559981056/PbYQIhpE_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/766940395/1470480450", "contributors_enabled": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", "time_zone": "Kyiv"}, "place": null, "contributors": null, "entities": {"user_mentions": [{"id": 4516783781, "indices": [0, 11], "id_str": "4516783781", "screen_name": "BAltwalbeh", "name": "Bashar Altwalbeh"}], "hashtags": [], "symbols": [], "urls": []}, "favorite_count": 0, "retweeted": false, "id": 776453801117179908, "in_reply_to_user_id": 4516783781, "timestamp_ms": "1473955986657", "retweet_count": 0, "truncated": false, "in_reply_to_user_id_str": "4516783781", "is_quote_status": false, "coordinates": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "in_reply_to_screen_name": "BAltwalbeh"}
+{
+    "text": "@BAltwalbeh \u0644\u0627",
+    "filter_level": "low",
+    "favorited": false,
+    "in_reply_to_status_id": 776453606979538944,
+    "in_reply_to_status_id_str": "776453606979538944",
+    "created_at": "Thu Sep 15 16:13:06 +0000 2016",
+    "lang": "ar",
+    "geo": null,
+    "id_str": "776453801117179908",
+    "user": {
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "geo_enabled": true,
+        "profile_sidebar_border_color": "C6E2EE",
+        "is_translator": false,
+        "url": null,
+        "friends_count": 663,
+        "favourites_count": 9366,
+        "utc_offset": 10800,
+        "created_at": "Sun Aug 19 04:53:41 +0000 2012",
+        "lang": "en",
+        "default_profile": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770632563559981056/PbYQIhpE_normal.jpg",
+        "id_str": "766940395",
+        "profile_background_tile": false,
+        "profile_link_color": "1F98C7",
+        "profile_use_background_image": true,
+        "notifications": null,
+        "default_profile_image": false,
+        "profile_sidebar_fill_color": "DAECF4",
+        "protected": false,
+        "followers_count": 1523,
+        "description": "\u0646\u0627\u064a\u0645 \u0641\u064a \u0627\u0644\u0639\u0633\u0644\u060c \u0632\u064a\u0643\u0645. | \u0637\u0627\u0644\u0628 \u0637\u0628",
+        "listed_count": 21,
+        "verified": false,
+        "id": 766940395,
+        "profile_text_color": "663B12",
+        "following": null,
+        "statuses_count": 37794,
+        "location": "jordan",
+        "follow_request_sent": null,
+        "profile_background_color": "C6E2EE",
+        "screen_name": "AbuAIii",
+        "name": "\u0623\u0628\u0648 \u0639\u0644\u064a",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770632563559981056/PbYQIhpE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/766940395/1470480450",
+        "contributors_enabled": false,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "time_zone": "Kyiv"
+    },
+    "place": null,
+    "contributors": null,
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 4516783781,
+                "indices": [
+                    0,
+                    11
+                ],
+                "id_str": "4516783781",
+                "screen_name": "BAltwalbeh",
+                "name": "Bashar Altwalbeh"
+            }
+        ],
+        "hashtags": [],
+        "symbols": [],
+        "urls": []
+    },
+    "favorite_count": 0,
+    "retweeted": false,
+    "id": 776453801117179908,
+    "in_reply_to_user_id": 4516783781,
+    "timestamp_ms": "1473955986657",
+    "retweet_count": 0,
+    "truncated": false,
+    "in_reply_to_user_id_str": "4516783781",
+    "is_quote_status": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": "BAltwalbeh"
+}
+{"text": "\u30c7\u30d6\u306f\u30de\u30cb\u30a2\u306b\u3081\u3061\u3083\u3082\u3066\u307e\u3059\u304b\u3089\uff01\u3082\u3066\u305f\u304f\u306a\u3063\u305f\u3089\u592a\u308a\u307e\u3057\u3087\u3046\uff01\n\u3059\u3052\u30fc\u30c6\u30af\u30cb\u30b7\u30e3\u30f3\u3060\u3063\u305f\u3089\u3001\u3082\u3063\u3068\u3082\u3066\u308b\u3088\uff01\nhttps://t.co/aj7js1VYuR", "filter_level": "low", "favorited": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "created_at": "Thu Sep 15 16:13:06 +0000 2016", "lang": "ja", "geo": null, "id_str": "776453801129553920", "possibly_sensitive": false, "user": {"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", "geo_enabled": false, "profile_sidebar_border_color": "DFDFDF", "is_translator": false, "url": "http://bakuten.tv/sample.asp", "friends_count": 1786, "favourites_count": 0, "utc_offset": -36000, "created_at": "Thu Apr 21 07:19:13 +0000 2011", "lang": "ja", "default_profile": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319496719/05riitsu_normal.jpg", "id_str": "285486564", "profile_background_tile": false, "profile_link_color": "990000", "profile_use_background_image": true, "notifications": null, "default_profile_image": false, "profile_sidebar_fill_color": "F3F3F3", "protected": false, "followers_count": 1167, "description": "\u79c1\u304c\u5973\u6027\u3092\u597d\u304d\u306b\u306a\u3063\u305f\u306e\u306f\u4e2d\u5b66\uff12\u5e74\u751f\u306e\u6642\u3067\u3001\u76f8\u624b\u306f\u62c5\u4efb\u306e\u5148\u751f\u3067\u3057\u305f\u3002\u5148\u751f\u306e\u3053\u3068\u304c\u597d\u304d\u3067\u597d\u304d\u3067\u4e00\u676f\u5148\u751f\u306e\u7d75\u3092\u63cf\u304d\u307e\u3057\u305f\u3002OL\u306b\u306a\u3063\u305f\u4eca\u3067\u3082\u3001\u5148\u751f\u306e\u3053\u3068\u304c\u5927\u597d\u304d\u3067\u3059\u3002", "listed_count": 2, "verified": false, "id": 285486564, "profile_text_color": "333333", "following": null, "statuses_count": 86085, "location": "\u672d\u5e4c", "follow_request_sent": null, "profile_background_color": "EBEBEB", "screen_name": "boindan", "name": "\u7206\u4e73\u52d5\u753b\u30aa\u30b9\u30b9\u30e1\u56e3", "profile_image_url": "http://pbs.twimg.com/profile_images/1319496719/05riitsu_normal.jpg", "contributors_enabled": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", "time_zone": "Hawaii"}, "place": null, "contributors": null, "entities": {"user_mentions": [], "hashtags": [], "symbols": [], "urls": [{"url": "https://t.co/aj7js1VYuR", "indices": [56, 79], "expanded_url": "http://bakuten.tv/sample.asp", "display_url": "bakuten.tv/sample.asp"}]}, "favorite_count": 0, "retweeted": false, "id": 776453801129553920, "in_reply_to_user_id": null, "timestamp_ms": "1473955986660", "retweet_count": 0, "truncated": false, "in_reply_to_user_id_str": null, "is_quote_status": false, "coordinates": null, "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>", "in_reply_to_screen_name": null}
+{
+    "text": "\u30c7\u30d6\u306f\u30de\u30cb\u30a2\u306b\u3081\u3061\u3083\u3082\u3066\u307e\u3059\u304b\u3089\uff01\u3082\u3066\u305f\u304f\u306a\u3063\u305f\u3089\u592a\u308a\u307e\u3057\u3087\u3046\uff01\n\u3059\u3052\u30fc\u30c6\u30af\u30cb\u30b7\u30e3\u30f3\u3060\u3063\u305f\u3089\u3001\u3082\u3063\u3068\u3082\u3066\u308b\u3088\uff01\nhttps://t.co/aj7js1VYuR",
+    "filter_level": "low",
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Sep 15 16:13:06 +0000 2016",
+    "lang": "ja",
+    "geo": null,
+    "id_str": "776453801129553920",
+    "possibly_sensitive": false,
+    "user": {
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "geo_enabled": false,
+        "profile_sidebar_border_color": "DFDFDF",
+        "is_translator": false,
+        "url": "http://bakuten.tv/sample.asp",
+        "friends_count": 1786,
+        "favourites_count": 0,
+        "utc_offset": -36000,
+        "created_at": "Thu Apr 21 07:19:13 +0000 2011",
+        "lang": "ja",
+        "default_profile": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319496719/05riitsu_normal.jpg",
+        "id_str": "285486564",
+        "profile_background_tile": false,
+        "profile_link_color": "990000",
+        "profile_use_background_image": true,
+        "notifications": null,
+        "default_profile_image": false,
+        "profile_sidebar_fill_color": "F3F3F3",
+        "protected": false,
+        "followers_count": 1167,
+        "description": "\u79c1\u304c\u5973\u6027\u3092\u597d\u304d\u306b\u306a\u3063\u305f\u306e\u306f\u4e2d\u5b66\uff12\u5e74\u751f\u306e\u6642\u3067\u3001\u76f8\u624b\u306f\u62c5\u4efb\u306e\u5148\u751f\u3067\u3057\u305f\u3002\u5148\u751f\u306e\u3053\u3068\u304c\u597d\u304d\u3067\u597d\u304d\u3067\u4e00\u676f\u5148\u751f\u306e\u7d75\u3092\u63cf\u304d\u307e\u3057\u305f\u3002OL\u306b\u306a\u3063\u305f\u4eca\u3067\u3082\u3001\u5148\u751f\u306e\u3053\u3068\u304c\u5927\u597d\u304d\u3067\u3059\u3002",
+        "listed_count": 2,
+        "verified": false,
+        "id": 285486564,
+        "profile_text_color": "333333",
+        "following": null,
+        "statuses_count": 86085,
+        "location": "\u672d\u5e4c",
+        "follow_request_sent": null,
+        "profile_background_color": "EBEBEB",
+        "screen_name": "boindan",
+        "name": "\u7206\u4e73\u52d5\u753b\u30aa\u30b9\u30b9\u30e1\u56e3",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1319496719/05riitsu_normal.jpg",
+        "contributors_enabled": false,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "time_zone": "Hawaii"
+    },
+    "place": null,
+    "contributors": null,
+    "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "url": "https://t.co/aj7js1VYuR",
+                "indices": [
+                    56,
+                    79
+                ],
+                "expanded_url": "http://bakuten.tv/sample.asp",
+                "display_url": "bakuten.tv/sample.asp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "retweeted": false,
+    "id": 776453801129553920,
+    "in_reply_to_user_id": null,
+    "timestamp_ms": "1473955986660",
+    "retweet_count": 0,
+    "truncated": false,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+    "in_reply_to_screen_name": null
+}
+{"text": "RT @PRAISEWORLD_: A passion for a thing doesn't mean you will build a career out of it ~ @Chude Jideonwo #Emerge2016 #Day2\n\nTune in https:/\u2026", "filter_level": "low", "retweet_count": 0, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "created_at": "Thu Sep 15 16:13:06 +0000 2016", "lang": "en", "geo": null, "id_str": "776453801142345728", "possibly_sensitive": false, "user": {"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/420451021/spice_nigeria.jpg", "geo_enabled": false, "profile_sidebar_border_color": "C0DEED", "is_translator": false, "url": "http://www.praiseworldradio.com", "friends_count": 445, "favourites_count": 330, "utc_offset": null, "created_at": "Fri Sep 25 21:53:52 +0000 2009", "lang": "en", "default_profile": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/752907379725983744/uUIDVGa8_normal.jpg", "id_str": "77320629", "profile_background_tile": true, "profile_link_color": "0084B4", "profile_use_background_image": true, "notifications": null, "default_profile_image": false, "profile_sidebar_fill_color": "DDEEF6", "protected": false, "followers_count": 4081, "description": "Radio & TV Host, MC/Compere, Voice over artiste. Media Consultant. Founder of @Praiseworld_ Radio. Public Speaker.\nFor Bookings: +234 806 302 2859", "listed_count": 44, "verified": false, "id": 77320629, "profile_text_color": "333333", "following": null, "statuses_count": 106633, "location": "Lagos, NIGERIA", "follow_request_sent": null, "profile_background_color": "C0DEED", "screen_name": "spiceonthemic", "name": "TOLA", "profile_image_url": "http://pbs.twimg.com/profile_images/752907379725983744/uUIDVGa8_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/77320629/1442264911", "contributors_enabled": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/420451021/spice_nigeria.jpg", "time_zone": null}, "place": null, "contributors": null, "entities": {"user_mentions": [{"id": 427665440, "indices": [3, 16], "id_str": "427665440", "screen_name": "PRAISEWORLD_", "name": "Praiseworld Radio"}, {"id": 25912164, "indices": [89, 95], "id_str": "25912164", "screen_name": "Chude", "name": "Chude Jideonwo"}], "hashtags": [{"text": "Emerge2016", "indices": [105, 116]}, {"text": "Day2", "indices": [117, 122]}], "symbols": [], "media": [{"source_status_id_str": "776405630693306368", "type": "photo", "url": "https://t.co/NofEWHCpIL", "id": 776405628470394881, "media_url": "http://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg", "sizes": {"large": {"resize": "fit", "h": 1021, "w": 1000}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 1021, "w": 1000}, "small": {"resize": "fit", "h": 680, "w": 666}}, "media_url_https": "https://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg", "indices": [139, 140], "source_user_id": 236319969, "id_str": "776405628470394881", "source_user_id_str": "236319969", "source_status_id": 776405630693306368, "expanded_url": "https://twitter.com/Church316/status/776405630693306368/photo/1", "display_url": "pic.twitter.com/NofEWHCpIL"}], "urls": []}, "favorite_count": 0, "retweeted": false, "id": 776453801142345728, "in_reply_to_user_id": null, "timestamp_ms": "1473955986663", "favorited": false, "truncated": false, "in_reply_to_user_id_str": null, "is_quote_status": false, "coordinates": null, "in_reply_to_screen_name": null, "extended_entities": {"media": [{"source_status_id_str": "776405630693306368", "type": "photo", "url": "https://t.co/NofEWHCpIL", "id": 776405628470394881, "media_url": "http://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg", "sizes": {"large": {"resize": "fit", "h": 1021, "w": 1000}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 1021, "w": 1000}, "small": {"resize": "fit", "h": 680, "w": 666}}, "media_url_https": "https://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg", "indices": [139, 140], "source_user_id": 236319969, "id_str": "776405628470394881", "source_user_id_str": "236319969", "source_status_id": 776405630693306368, "expanded_url": "https://twitter.com/Church316/status/776405630693306368/photo/1", "display_url": "pic.twitter.com/NofEWHCpIL"}]}, "retweeted_status": {"text": "A passion for a thing doesn't mean you will build a career out of it ~ @Chude Jideonwo #Emerge2016 #Day2\n\nTune in https://t.co/NofEWHCpIL", "filter_level": "low", "retweet_count": 2, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "created_at": "Thu Sep 15 16:01:34 +0000 2016", "user": {"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000107412383/4fc2c4fce5611be807d97e27671bbe99.jpeg", "geo_enabled": false, "profile_sidebar_border_color": "000000", "is_translator": false, "url": "http://www.praiseworldradio.com/", "friends_count": 1337, "favourites_count": 2236, "utc_offset": 3600, "created_at": "Sat Dec 03 20:29:20 +0000 2011", "lang": "en", "default_profile": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/732145830753402880/LdovcHx9_normal.jpg", "id_str": "427665440", "profile_background_tile": true, "profile_link_color": "0084B4", "profile_use_background_image": true, "notifications": null, "default_profile_image": false, "profile_sidebar_fill_color": "EFF5F7", "protected": false, "followers_count": 33405, "description": "Africa's #1 Multi Award Winning Online Gospel Radio Station. http://PraiseworldRadio.com | Available on Blackberry Appstore, Google Play, Apple Store.", "listed_count": 187, "verified": false, "id": 427665440, "profile_text_color": "333333", "following": null, "statuses_count": 354811, "location": "Lagos, Nigeria ", "follow_request_sent": null, "profile_background_color": "C0DEED", "screen_name": "PRAISEWORLD_", "name": "Praiseworld Radio", "profile_image_url": "http://pbs.twimg.com/profile_images/732145830753402880/LdovcHx9_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/427665440/1433240758", "contributors_enabled": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000107412383/4fc2c4fce5611be807d97e27671bbe99.jpeg", "time_zone": "West Central Africa"}, "lang": "en", "geo": null, "id_str": "776450899266965504", "possibly_sensitive": false, "entities": {"user_mentions": [{"id": 25912164, "indices": [71, 77], "id_str": "25912164", "screen_name": "Chude", "name": "Chude Jideonwo"}], "hashtags": [{"text": "Emerge2016", "indices": [87, 98]}, {"text": "Day2", "indices": [99, 104]}], "symbols": [], "media": [{"source_status_id_str": "776405630693306368", "type": "photo", "url": "https://t.co/NofEWHCpIL", "id": 776405628470394881, "media_url": "http://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg", "sizes": {"large": {"resize": "fit", "h": 1021, "w": 1000}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 1021, "w": 1000}, "small": {"resize": "fit", "h": 680, "w": 666}}, "media_url_https": "https://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg", "indices": [114, 137], "source_user_id": 236319969, "id_str": "776405628470394881", "source_user_id_str": "236319969", "source_status_id": 776405630693306368, "expanded_url": "https://twitter.com/Church316/status/776405630693306368/photo/1", "display_url": "pic.twitter.com/NofEWHCpIL"}], "urls": []}, "place": null, "contributors": null, "favorite_count": 0, "retweeted": false, "id": 776450899266965504, "in_reply_to_user_id": null, "favorited": false, "truncated": false, "in_reply_to_user_id_str": null, "is_quote_status": false, "coordinates": null, "in_reply_to_screen_name": null, "extended_entities": {"media": [{"source_status_id_str": "776405630693306368", "type": "photo", "url": "https://t.co/NofEWHCpIL", "id": 776405628470394881, "media_url": "http://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg", "sizes": {"large": {"resize": "fit", "h": 1021, "w": 1000}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 1021, "w": 1000}, "small": {"resize": "fit", "h": 680, "w": 666}}, "media_url_https": "https://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg", "indices": [114, 137], "source_user_id": 236319969, "id_str": "776405628470394881", "source_user_id_str": "236319969", "source_status_id": 776405630693306368, "expanded_url": "https://twitter.com/Church316/status/776405630693306368/photo/1", "display_url": "pic.twitter.com/NofEWHCpIL"}]}, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"}}
+{
+    "text": "RT @PRAISEWORLD_: A passion for a thing doesn't mean you will build a career out of it ~ @Chude Jideonwo #Emerge2016 #Day2\n\nTune in https:/\u2026",
+    "filter_level": "low",
+    "retweet_count": 0,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "created_at": "Thu Sep 15 16:13:06 +0000 2016",
+    "lang": "en",
+    "geo": null,
+    "id_str": "776453801142345728",
+    "possibly_sensitive": false,
+    "user": {
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/420451021/spice_nigeria.jpg",
+        "geo_enabled": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "is_translator": false,
+        "url": "http://www.praiseworldradio.com",
+        "friends_count": 445,
+        "favourites_count": 330,
+        "utc_offset": null,
+        "created_at": "Fri Sep 25 21:53:52 +0000 2009",
+        "lang": "en",
+        "default_profile": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/752907379725983744/uUIDVGa8_normal.jpg",
+        "id_str": "77320629",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_use_background_image": true,
+        "notifications": null,
+        "default_profile_image": false,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "protected": false,
+        "followers_count": 4081,
+        "description": "Radio & TV Host, MC/Compere, Voice over artiste. Media Consultant. Founder of @Praiseworld_ Radio. Public Speaker.\nFor Bookings: +234 806 302 2859",
+        "listed_count": 44,
+        "verified": false,
+        "id": 77320629,
+        "profile_text_color": "333333",
+        "following": null,
+        "statuses_count": 106633,
+        "location": "Lagos, NIGERIA",
+        "follow_request_sent": null,
+        "profile_background_color": "C0DEED",
+        "screen_name": "spiceonthemic",
+        "name": "TOLA",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/752907379725983744/uUIDVGa8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77320629/1442264911",
+        "contributors_enabled": false,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/420451021/spice_nigeria.jpg",
+        "time_zone": null
+    },
+    "place": null,
+    "contributors": null,
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 427665440,
+                "indices": [
+                    3,
+                    16
+                ],
+                "id_str": "427665440",
+                "screen_name": "PRAISEWORLD_",
+                "name": "Praiseworld Radio"
+            },
+            {
+                "id": 25912164,
+                "indices": [
+                    89,
+                    95
+                ],
+                "id_str": "25912164",
+                "screen_name": "Chude",
+                "name": "Chude Jideonwo"
+            }
+        ],
+        "hashtags": [
+            {
+                "text": "Emerge2016",
+                "indices": [
+                    105,
+                    116
+                ]
+            },
+            {
+                "text": "Day2",
+                "indices": [
+                    117,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "source_status_id_str": "776405630693306368",
+                "type": "photo",
+                "url": "https://t.co/NofEWHCpIL",
+                "id": 776405628470394881,
+                "media_url": "http://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg",
+                "sizes": {
+                    "large": {
+                        "resize": "fit",
+                        "h": 1021,
+                        "w": 1000
+                    },
+                    "thumb": {
+                        "resize": "crop",
+                        "h": 150,
+                        "w": 150
+                    },
+                    "medium": {
+                        "resize": "fit",
+                        "h": 1021,
+                        "w": 1000
+                    },
+                    "small": {
+                        "resize": "fit",
+                        "h": 680,
+                        "w": 666
+                    }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg",
+                "indices": [
+                    139,
+                    140
+                ],
+                "source_user_id": 236319969,
+                "id_str": "776405628470394881",
+                "source_user_id_str": "236319969",
+                "source_status_id": 776405630693306368,
+                "expanded_url": "https://twitter.com/Church316/status/776405630693306368/photo/1",
+                "display_url": "pic.twitter.com/NofEWHCpIL"
+            }
+        ],
+        "urls": []
+    },
+    "favorite_count": 0,
+    "retweeted": false,
+    "id": 776453801142345728,
+    "in_reply_to_user_id": null,
+    "timestamp_ms": "1473955986663",
+    "favorited": false,
+    "truncated": false,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+        "media": [
+            {
+                "source_status_id_str": "776405630693306368",
+                "type": "photo",
+                "url": "https://t.co/NofEWHCpIL",
+                "id": 776405628470394881,
+                "media_url": "http://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg",
+                "sizes": {
+                    "large": {
+                        "resize": "fit",
+                        "h": 1021,
+                        "w": 1000
+                    },
+                    "thumb": {
+                        "resize": "crop",
+                        "h": 150,
+                        "w": 150
+                    },
+                    "medium": {
+                        "resize": "fit",
+                        "h": 1021,
+                        "w": 1000
+                    },
+                    "small": {
+                        "resize": "fit",
+                        "h": 680,
+                        "w": 666
+                    }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg",
+                "indices": [
+                    139,
+                    140
+                ],
+                "source_user_id": 236319969,
+                "id_str": "776405628470394881",
+                "source_user_id_str": "236319969",
+                "source_status_id": 776405630693306368,
+                "expanded_url": "https://twitter.com/Church316/status/776405630693306368/photo/1",
+                "display_url": "pic.twitter.com/NofEWHCpIL"
+            }
+        ]
+    },
+    "retweeted_status": {
+        "text": "A passion for a thing doesn't mean you will build a career out of it ~ @Chude Jideonwo #Emerge2016 #Day2\n\nTune in https://t.co/NofEWHCpIL",
+        "filter_level": "low",
+        "retweet_count": 2,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "created_at": "Thu Sep 15 16:01:34 +0000 2016",
+        "user": {
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000107412383/4fc2c4fce5611be807d97e27671bbe99.jpeg",
+            "geo_enabled": false,
+            "profile_sidebar_border_color": "000000",
+            "is_translator": false,
+            "url": "http://www.praiseworldradio.com/",
+            "friends_count": 1337,
+            "favourites_count": 2236,
+            "utc_offset": 3600,
+            "created_at": "Sat Dec 03 20:29:20 +0000 2011",
+            "lang": "en",
+            "default_profile": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/732145830753402880/LdovcHx9_normal.jpg",
+            "id_str": "427665440",
+            "profile_background_tile": true,
+            "profile_link_color": "0084B4",
+            "profile_use_background_image": true,
+            "notifications": null,
+            "default_profile_image": false,
+            "profile_sidebar_fill_color": "EFF5F7",
+            "protected": false,
+            "followers_count": 33405,
+            "description": "Africa's #1 Multi Award Winning Online Gospel Radio Station. http://PraiseworldRadio.com | Available on Blackberry Appstore, Google Play, Apple Store.",
+            "listed_count": 187,
+            "verified": false,
+            "id": 427665440,
+            "profile_text_color": "333333",
+            "following": null,
+            "statuses_count": 354811,
+            "location": "Lagos, Nigeria ",
+            "follow_request_sent": null,
+            "profile_background_color": "C0DEED",
+            "screen_name": "PRAISEWORLD_",
+            "name": "Praiseworld Radio",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/732145830753402880/LdovcHx9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/427665440/1433240758",
+            "contributors_enabled": false,
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000107412383/4fc2c4fce5611be807d97e27671bbe99.jpeg",
+            "time_zone": "West Central Africa"
+        },
+        "lang": "en",
+        "geo": null,
+        "id_str": "776450899266965504",
+        "possibly_sensitive": false,
+        "entities": {
+            "user_mentions": [
+                {
+                    "id": 25912164,
+                    "indices": [
+                        71,
+                        77
+                    ],
+                    "id_str": "25912164",
+                    "screen_name": "Chude",
+                    "name": "Chude Jideonwo"
+                }
+            ],
+            "hashtags": [
+                {
+                    "text": "Emerge2016",
+                    "indices": [
+                        87,
+                        98
+                    ]
+                },
+                {
+                    "text": "Day2",
+                    "indices": [
+                        99,
+                        104
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "source_status_id_str": "776405630693306368",
+                    "type": "photo",
+                    "url": "https://t.co/NofEWHCpIL",
+                    "id": 776405628470394881,
+                    "media_url": "http://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg",
+                    "sizes": {
+                        "large": {
+                            "resize": "fit",
+                            "h": 1021,
+                            "w": 1000
+                        },
+                        "thumb": {
+                            "resize": "crop",
+                            "h": 150,
+                            "w": 150
+                        },
+                        "medium": {
+                            "resize": "fit",
+                            "h": 1021,
+                            "w": 1000
+                        },
+                        "small": {
+                            "resize": "fit",
+                            "h": 680,
+                            "w": 666
+                        }
+                    },
+                    "media_url_https": "https://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "source_user_id": 236319969,
+                    "id_str": "776405628470394881",
+                    "source_user_id_str": "236319969",
+                    "source_status_id": 776405630693306368,
+                    "expanded_url": "https://twitter.com/Church316/status/776405630693306368/photo/1",
+                    "display_url": "pic.twitter.com/NofEWHCpIL"
+                }
+            ],
+            "urls": []
+        },
+        "place": null,
+        "contributors": null,
+        "favorite_count": 0,
+        "retweeted": false,
+        "id": 776450899266965504,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "truncated": false,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "coordinates": null,
+        "in_reply_to_screen_name": null,
+        "extended_entities": {
+            "media": [
+                {
+                    "source_status_id_str": "776405630693306368",
+                    "type": "photo",
+                    "url": "https://t.co/NofEWHCpIL",
+                    "id": 776405628470394881,
+                    "media_url": "http://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg",
+                    "sizes": {
+                        "large": {
+                            "resize": "fit",
+                            "h": 1021,
+                            "w": 1000
+                        },
+                        "thumb": {
+                            "resize": "crop",
+                            "h": 150,
+                            "w": 150
+                        },
+                        "medium": {
+                            "resize": "fit",
+                            "h": 1021,
+                            "w": 1000
+                        },
+                        "small": {
+                            "resize": "fit",
+                            "h": 680,
+                            "w": 666
+                        }
+                    },
+                    "media_url_https": "https://pbs.twimg.com/media/CsZYzjaXgAEg2PQ.jpg",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "source_user_id": 236319969,
+                    "id_str": "776405628470394881",
+                    "source_user_id_str": "236319969",
+                    "source_status_id": 776405630693306368,
+                    "expanded_url": "https://twitter.com/Church316/status/776405630693306368/photo/1",
+                    "display_url": "pic.twitter.com/NofEWHCpIL"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+    }
+}
